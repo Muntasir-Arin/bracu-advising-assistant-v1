@@ -5,8 +5,7 @@
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Contributing](#contributing)
-- [Contact](#contact)
-- 
+- [Contact](#contact) 
 ## Introduction
 Bracu-advising-assistant-v1 is a Python-based web scraping application designed to collect advising-related information from the university website and create efficient course schedules for students. This tool utilizes Selenium to navigate through the university website, extract course data, and then find the best combination of courses that minimizes waiting time and the number of class days. The resulting schedules are then stored in the output folders for easy access.
 
