@@ -1,0 +1,4 @@
+beautifulsoup4==4.12.2
+Pillow==10.0.0
+requests==2.31.0
+selenium==4.10.0
