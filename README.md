@@ -1,10 +1,12 @@
 # Course Scheduling Tool for BRACU
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Contributing](#contributing)
+- [License](#license)
 - [Contact](#contact) 
 ## Introduction
 Bracu-advising-assistant-v1 is a Python-based web scraping application designed to collect advising-related information from the university website and create efficient course schedules for students. This tool utilizes Selenium to navigate through the university website, extract course data, and then find the best combination of courses that minimizes waiting time and the number of class days. The resulting schedules are then stored in the output folders for easy access.
@@ -49,6 +51,10 @@ pip install -r requirements.txt
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or a pull request on the GitHub repository.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
